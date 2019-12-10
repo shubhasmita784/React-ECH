@@ -94,7 +94,7 @@ class Footer extends Component {
             <div class="row">
             <div class="col-md-3">
             <img src={logo} alt={""}></img>
-            <p>Hanky panky zonked David such a fibber vagabond, up the duff knackered chancer</p>
+            <p>Hanky panky zonked David such a fibber vagabond, up the duff knackered chancers</p>
             </div>
             <div class="col-md-3">
             <ul>
