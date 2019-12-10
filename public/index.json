@@ -1,0 +1,72 @@
+{
+  
+  "banner":{
+    "title":"Welcome to Visionech Get the app now & Enjoy",
+    "description":"Why I say old chap that is spiffing cobblers brolly owt to do with me, gormless pukka are you taking the piss bum bag zonked cup of char.",
+    "image": "https://lh3.googleusercontent.com/-zqCFgxuqSP4/XeDXBxWpaTI/AAAAAAAAGeg/EGLMbkUYODUkexsOIPhOxA6Q8iLnRo5cACK8BGAsYHg/s0/2019-11-29.png"
+
+  },
+
+  "about":{
+    "title":"Quickly query and receive credit",
+    "description":"<p >Minim volutpat fermentum lorem proin, sociis laudantium tortor iure! Feugiat voluptatem. Earum, quas commodo? </p><p>Aptent quo est cumque ullamco lorem, necessitatibus. Erat et cras numquam mus voluptas, praesent a! Ipsam aliquam aliquip? Ridiculus, scelerisque ultricies, ligula laboris quas, numquam mi facilisi? mattis diam.</p>",
+    "image":"https://lh3.googleusercontent.com/-DKClQKOKTeA/XeDXAt_mJXI/AAAAAAAAGec/oEn2GhkAmNkcbckJR9Uwk8MAeXNZvr_pgCK8BGAsYHg/s0/2019-11-29.png"
+  },
+  "features":[
+    {
+      "title":"Share the Story of your Classroom with Families",
+      "description":"Hanky panky zonked David such a fibber vagabond, up the duff knackered chancer. Pear shaped young delinquent bevvy fanny around wind up he lost his.!",
+       "image":"https://droitthemes.com/wp/oppi/wp-content/uploads/2019/10/about_img_1-min.png",
+       "image1":"https://droitthemes.com/wp/oppi/wp-content/uploads/2019/10/about_img_2-min.png"
+       
+    },
+    {
+      "title":"High Quality Service at the Best Value",
+      "description":"Hanky panky zonked David such a fibber vagabond, up the duff knackered chancer. Pear shaped young delinquent bevvy fanny around wind up he lost his.!"
+
+    },
+    {
+      "title":"Share the Story of your Classroom with Families",
+      "description":"Hanky panky zonked David such a fibber vagabond, up the duff knackered chancer. Pear shaped young delinquent bevvy fanny around wind up he lost his.!",
+      "image":"https://droitthemes.com/wp/oppi/wp-content/uploads/2019/10/about_img_3-min.png"
+    }
+  ],
+  "appscreens":[
+           {
+             "image": "img/scr1.png"
+           },
+           {
+             "image": "img/scr2.png"
+           },
+           {
+             "image": "img/scr3.png"
+           },
+           {
+            "image": "img/scr1.png"
+          },
+          {
+            "image": "img/scr2.png"
+          },
+          {
+            "image": "img/scr3.png"
+          },
+          {
+            "image": "img/scr1.png"
+          },
+          {
+            "image": "img/scr2.png"
+          },
+          {
+            "image": "img/scr3.png"
+          },
+          {
+            "image": "img/scr1.png"
+          },
+          {
+            "image": "img/scr2.png"
+          },
+          {
+            "image": "img/scr3.png"
+          }
+        ]
+}
